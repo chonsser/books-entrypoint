@@ -1,0 +1,6 @@
+[submodule "books-laravel"]
+	path = books-laravel
+	url = git@github.com:chonsser/books-laravel.git
+[submodule "books-ng"]
+	path = books-ng
+	url = git@github.com:chonsser/books-ng.git
